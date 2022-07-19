@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body > header{
+    background-color: dodgerblue;
+    color: white;
+
+}
+
+#logo{
+    color: white;
+    margin: auto;
+    float: right;
+    
+}
+
+
+.Like-Button{
+    background-color: transparent;
+    border: 1px solid dodgerblue;
+}
+
+body > footer {
+    padding: 16px;
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+
+
+}
+
+
+body > main > section {
+    margin: auto;
+    width: 70%;
+
+}
+
+body > main > article > main > footer{
+    margin: auto;
+    width: 70%;
+}
+
+
+body > main > article > main{
+    margin: auto;
+    width: 90%;
+}
